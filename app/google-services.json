@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275765531251",
+    "project_id": "to-do-list-b8c15",
+    "storage_bucket": "to-do-list-b8c15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275765531251:android:4248d08c1039352afa5006",
+        "android_client_info": {
+          "package_name": "com.example.splashactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275765531251-1v750sgsts6rr61ojpeagqb5jit7i91j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmu8VAsQqYPVkG1nZvQgpwnlP_0cQiXp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275765531251-1v750sgsts6rr61ojpeagqb5jit7i91j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
